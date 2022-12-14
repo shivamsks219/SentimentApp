@@ -1,6 +1,6 @@
 import nltk
 import streamlit as st
-
+nltk.download('vader_lexicon')
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
 sentiments = SentimentIntensityAnalyzer()
 
