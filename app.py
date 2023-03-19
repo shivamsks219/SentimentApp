@@ -37,3 +37,5 @@ with st.form("feedback_form"):
 
 st.write(" Programmed by Shivam Kumar :smile:")
 st.markdown("Contact : shivamsks219@gmail.com")
+st.markdown("LinkedIn : https://www.linkedin.com/in/shivam-kumar-sks/ ")
+st.markdown("GitHub : https://github.com/shivamsks219/ ")
